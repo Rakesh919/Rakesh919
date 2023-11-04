@@ -34,7 +34,7 @@ solutions. Actively pursuing opportunities in the realm of Java development
 
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **rakesh88577@gmail.com** && **rakesh30830@gmail.com**
+- 📫 Reach me at : **rakesh88577@gmail.com** 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.
