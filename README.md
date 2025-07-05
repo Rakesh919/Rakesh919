@@ -1,126 +1,202 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Rakesh+Sharma+👋;Java+Backend+Developer+%7C+Spring+Boot+Expert;Building+Scalable+APIs+%26+Microservices;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+</div>
 
-<!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
 
+### 🚀 About Me
 
-### Hi there, I'm [Rakesh Sharma](https://www.linkedin.com/in/rakesh-sharma-517589231/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
-
-Enthusiastic and hardworking job seeker, fueled by a passion for technology
-and coding excellence. With well-honed organizational skills, I'm determined
-to secure an entry-level position as a Java Developer. Ready to collaborate
-with a team, contribute to company goals, and create impactful software
-solutions. Actively pursuing opportunities in the realm of Java development
-
-
-- 💻 {( I am currently enrolled in a B.Tech program at  [MVN University](https://www.mvn.edu.in/)-Palwal, specializing in the field of Computer Science.. )}
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/). )}
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakesh919&label=Profile%20views&color=32CD32&style=flat" alt="Rakesh919" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/CodingWitha/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/sharks/practice/)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/90308903-ebbb-44c1-9b81-6350ed77b614)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/rakesh88577)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@rakesh88577)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/rakesh-sharma_110)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/rakesh99)
+🎓 **B.Tech Graduate** in Computer Science from [MVN University](https://www.mvn.edu.in/) (2024)  
+💼 **Backend Developer** specializing in Java, Spring Boot, and scalable API development  
+🌱 Currently mastering **Microservices Architecture** and **Cloud Technologies**  
+🎯 **1+ years** of hands-on experience in enterprise application development  
+💡 Passionate about writing clean, efficient code and solving complex problems  
 
-- 🌱 I’m currently in love with <b>Machine learning</b>
+### 🔥 Current Focus
+- 🏗️ Building **enterprise-grade backend systems** with Spring Boot
+- ⚡ Optimizing **database performance** and query efficiency  
+- 🔧 Implementing **microservices** and **containerization** with Docker
+- 🌐 Exploring **distributed systems** and **API design patterns**
+- 🎨 Contributing to **open-source projects** and building developer tools
 
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **rakesh88577@gmail.com** 
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.
-<!-- - 🔭 Simultaneously exploring <b>Web3</b>  -->
-</br>
-
-
-
-<!-- ### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
-
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure  -->
-
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
-
-
-- any collobration work,
-<!-- - machine learning projects(development or research), 
-- research internships and   -->
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-<details>
-   <summary>📃 Resume</summary>
-
- ## Education
- - 📍 ** MVN University **-----------------------**< 2020-2024 >**\
- 📖**Bachelor's of technology-< Information Technology >**
- 
- - 📍 **Aggarwal Public School, Ballabgarh**------------------**< 2018-2020 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Sawan Public School, Ballabgarh**------------------**< 2012-2018 >**\
-   📖**Secondary Schooling**
- 
-   
-   
-   
-
-   
-
-
-   </details>
-   
-### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
-   
-<p align="left">  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-   ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh-sharma-517589231/)
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/rakesh99)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@rakesh88577)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Rakesh919)
-
-<!--
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
--->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Rakesh919&label=Profile%20views&color=32CD32&style=flat" alt="Rakesh919" /> 
+  <img src="https://img.shields.io/github/followers/Rakesh919?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh919" alt="Rakesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakesh919&show_icons=true&theme=radical" alt="Rakesh's github stats" /></a>
-<!--
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh919&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
--->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
 
+### 💻 Tech Stack & Tools
 
+<div align="center">
 
-<!--
+#### Languages
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="50">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+#### Frameworks & Libraries
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Databases
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### DevOps & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+#### Frontend (Familiar)
+<img src="https://user-images.githubusercontent.com/74038190/212257453-a9b50f9e-4c00-4e99-9b06-f4c4b7c9c4c8.gif" width="50">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+### 🏆 Coding Platforms & Achievements
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/CodingWitha/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&labelColor=white&logo=geeksforgeeks&logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/sharks/practice/)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=for-the-badge&labelColor=white&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/90308903-ebbb-44c1-9b81-6350ed77b614)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&labelColor=white&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/rakesh88577)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=for-the-badge&labelColor=white&logo=hackerearth&logoColor=650458)](https://www.hackerearth.com/@rakesh88577)
+[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=for-the-badge&labelColor=white&logo=interviewbit&logoColor=blue)](https://www.interviewbit.com/profile/rakesh-sharma_110)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&labelColor=white&logo=StackOverflow&logoColor=FE7A16)](https://stackoverflow.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com/rakesh99)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakesh919&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh919&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh919&theme=tokyonight" alt="Rakesh's github streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh919&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+### 🌟 What I'm passionate about
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="350">
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
+
+💡 **Problem Solving:** Love tackling complex algorithmic challenges  
+🏗️ **System Design:** Building scalable and maintainable architectures  
+⚡ **Performance:** Optimizing applications for speed and efficiency  
+🤝 **Collaboration:** Working with teams to deliver impactful solutions  
+📚 **Learning:** Constantly exploring new technologies and best practices  
+🌐 **Open Source:** Contributing to the developer community  
+🔧 **API Design:** Creating robust and intuitive REST APIs  
+🐳 **Containerization:** Deploying applications with Docker  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+### 🎯 I'm open to
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="350">
+</div>
+
+<img alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">
+
+- 🤝 **Collaboration** on innovative projects
+- 🚀 **Backend development** opportunities  
+- 📝 **Technical writing** and **code reviews**
+- 🎤 **Speaking** at tech meetups and conferences
+- 💼 **Mentoring** junior developers
+- 🏆 **Open source contributions**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+### 🔗 Let's Connect!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48789.gif" width="350">
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sharma-517589231/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rakesh99)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rakesh88577)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakesh919)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakesh88577@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated line" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  
+### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+**Thanks for visiting my profile! ⭐ Star my repositories if you find them interesting!**
+
+</div>
